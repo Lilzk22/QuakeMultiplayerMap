@@ -770,36 +770,6 @@
 }
 // entity 8
 {
-"classname" "weapon_supernailgun"
-"origin" "992 -512 128"
-}
-// entity 9
-{
-"classname" "item_armor2"
-"origin" "992 -688 128"
-}
-// entity 10
-{
-"classname" "monster_demon1"
-"origin" "688 -672 48"
-}
-// entity 11
-{
-"classname" "monster_dog"
-"origin" "128 -640 120"
-}
-// entity 12
-{
-"classname" "monster_dog"
-"origin" "112 -512 120"
-}
-// entity 13
-{
-"classname" "monster_dog"
-"origin" "-16 -544 120"
-}
-// entity 14
-{
 "classname" "monster_shambler"
 "origin" "-0 -1504 120"
 }
