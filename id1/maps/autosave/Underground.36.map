@@ -813,15 +813,6 @@
 ( 224 -400 96 ) ( 224 -400 288 ) ( -80 -400 288 ) wizmet1_8 -0 -0 270 1 1
 ( 224 -400 96 ) ( 224 -416 96 ) ( 224 -416 288 ) wizmet1_8 -0 -0 270 1 -1
 }
-// brush 89
-{
-( -608 -96 -312 ) ( -608 -1072 -312 ) ( -608 -1072 -344 ) *water1 -0 56 -0 1 1
-( 736 -1088 -312 ) ( 736 -1088 -344 ) ( -608 -1072 -344 ) *water1 -16 56 -0 1 1
-( -608 -1072 -344 ) ( 736 -1088 -344 ) ( 736 -112 -344 ) *water1 -16 -0 -0 1 1
-( 736 -112 -312 ) ( 736 -1088 -312 ) ( -608 -1072 -312 ) *water1 -16 -0 -0 1 1
-( 736 -112 -344 ) ( 736 -112 -312 ) ( -608 -96 -312 ) *water1 -16 56 -0 1 1
-( 736 -112 -344 ) ( 736 -1088 -344 ) ( 736 -1088 -312 ) *water1 -0 56 -0 1 1
-}
 }
 // entity 1
 {
@@ -897,44 +888,4 @@
 {
 "classname" "item_shells"
 "origin" "32 224 96"
-}
-// entity 16
-{
-"classname" "item_armor1"
-"origin" "-560 -496 16"
-}
-// entity 17
-{
-"classname" "misc_explobox"
-"origin" "-848 -400 128"
-}
-// entity 18
-{
-"classname" "weapon_nailgun"
-"origin" "-880 -624 128"
-}
-// entity 19
-{
-"classname" "item_spikes"
-"origin" "-912 -608 128"
-}
-// entity 20
-{
-"classname" "item_cells"
-"origin" "-464 -720 16"
-}
-// entity 21
-{
-"classname" "item_health"
-"origin" "-464 -384 16"
-}
-// entity 22
-{
-"classname" "item_health"
-"origin" "560 -400 16"
-}
-// entity 23
-{
-"classname" "item_shells"
-"origin" "560 -864 16"
 }
