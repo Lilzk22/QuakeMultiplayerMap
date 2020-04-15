@@ -4,12 +4,12 @@ running with 4 threads
 LoadBSPFile: 'Underground.bsp'
 BSP is version 29
 --- LoadEntities ---
-24 entities read, 0 are lights.
+68 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	2587 solid faces
+	4006 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -25,7 +25,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing Underground.bsp as BSP version 29
-0.443 seconds elapsed
+0.287 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point

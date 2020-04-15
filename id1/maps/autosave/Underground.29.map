@@ -806,3 +806,8 @@
 "classname" "info_player_deathmatch"
 "origin" "192 432 120"
 }
+// entity 3
+{
+"classname" "info_player_deathmatch"
+"origin" "-80 -1536 120"
+}

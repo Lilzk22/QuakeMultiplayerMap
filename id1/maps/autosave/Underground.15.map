@@ -667,3 +667,13 @@
 "classname" "info_player_start"
 "origin" "-48 336 40"
 }
+// entity 2
+{
+"classname" "misc_explobox"
+"origin" "-848 -816 128"
+}
+// entity 3
+{
+"classname" "misc_explobox2"
+"origin" "-832 -416 128"
+}

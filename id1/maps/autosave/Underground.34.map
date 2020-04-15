@@ -834,3 +834,8 @@
 "classname" "weapon_lightning"
 "origin" "96 -592 96"
 }
+// entity 5
+{
+"classname" "item_cells"
+"origin" "80 -576 96"
+}

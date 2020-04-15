@@ -829,3 +829,8 @@
 "classname" "info_player_deathmatch"
 "origin" "-80 -1536 120"
 }
+// entity 4
+{
+"classname" "weapon_lightning"
+"origin" "96 -592 96"
+}

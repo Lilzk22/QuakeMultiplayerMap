@@ -1,61 +1,13 @@
 ---- qbsp / ericw-tools v0.18.1 ----
-Input file: Underground.map
-Output file: Underground.bsp
-
 ---- LoadMapFile ----
-          548 faces
-           90 brushes
-           24 entities
-           15 unique texnames
-          208 texinfo
+          834 faces
+          139 brushes
+           68 entities
+           13 unique texnames
+          304 texinfo
 
-Opened WAD: C:/Users/lilzk/OneDrive/Desktop/quake-leveldesign-starterkit-master/wads/START.WAD
-Processing hull 0...
----- Brush_LoadEntity ----
-           90 brushes
-          142 planes
----- CSGFaces ----
-          548 brushfaces
-          791 csgfaces
-          672 mergedfaces
----- SolidBSP ----
-         1129 split nodes
-          474 solid leafs
-          632 empty leafs
-           24 water leafs
-            0 detail leafs
-            0 detail illusionary leafs
-            0 detail fence leafs
-            0 illusionary visblocker leafs
-         2812 leaffaces
-         2647 nodefaces
----- Portalize ----
-          656 vis leafs
-          656 vis clusters
-         1738 vis portals
----- FillOutside ----
-*** WARNING 10: Reached occupant at (-848 -16 40), no filling performed.
-Leak file written to Underground.pts
----- MakeFaceEdges ----
----- GrowRegions ----
-Processing hull 1...
-Processing hull 2...
----- WriteBSPFile ----
+     Updating entities lump...
 Wrote Underground.bsp
-          320 planes             6400
-         3383 vertexes          40596
-         1129 nodes             27096
-          187 texinfo            7480
-         2647 faces             52940
-         1314 clipnodes         10512
-          657 leafs             18396
-         2812 marksurfaces       5624
-        10542 surfedges         42168
-         7016 edges             28064
-           15 textures          88984
-              lightdata             0
-              visdata               0
-              entdata            1475
 
-0.440 seconds elapsed
-Peak memory usage: 10912528 (10.4M)
+0.033 seconds elapsed
+Peak memory usage: 919898 (0.9M)

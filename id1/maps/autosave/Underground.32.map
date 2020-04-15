@@ -795,6 +795,24 @@
 ( 768 -464 -320 ) ( 768 -464 -304 ) ( 736 -464 -304 ) cop1_1 -16 16 -0 1 1
 ( 768 -464 -320 ) ( 768 -720 -320 ) ( 768 -720 -304 ) cop1_1 16 16 -0 1 1
 }
+// brush 87
+{
+( -80 -784 288 ) ( -80 -800 288 ) ( -80 -800 96 ) wizmet1_8 -0 -0 270 1 -1
+( 224 -800 288 ) ( 224 -800 96 ) ( -80 -800 96 ) wizmet1_8 -0 -0 270 1 1
+( -80 -800 96 ) ( 224 -800 96 ) ( 224 -784 96 ) wizmet1_8 -0 -0 -0 1 -1
+( 224 -784 288 ) ( 224 -800 288 ) ( -80 -800 288 ) wizmet1_8 -0 -0 -0 1 -1
+( 224 -784 96 ) ( 224 -784 288 ) ( -80 -784 288 ) wizmet1_8 -0 -0 270 1 1
+( 224 -784 96 ) ( 224 -800 96 ) ( 224 -800 288 ) wizmet1_8 -0 -0 270 1 -1
+}
+// brush 88
+{
+( -80 -400 288 ) ( -80 -416 288 ) ( -80 -416 96 ) wizmet1_8 -0 -0 270 1 -1
+( 224 -416 288 ) ( 224 -416 96 ) ( -80 -416 96 ) wizmet1_8 -0 -0 270 1 1
+( -80 -416 96 ) ( 224 -416 96 ) ( 224 -400 96 ) wizmet1_8 -0 -0 -0 1 -1
+( 224 -400 288 ) ( 224 -416 288 ) ( -80 -416 288 ) wizmet1_8 -0 -0 -0 1 -1
+( 224 -400 96 ) ( 224 -400 288 ) ( -80 -400 288 ) wizmet1_8 -0 -0 270 1 1
+( 224 -400 96 ) ( 224 -416 96 ) ( 224 -416 288 ) wizmet1_8 -0 -0 270 1 -1
+}
 }
 // entity 1
 {
@@ -810,89 +828,4 @@
 {
 "classname" "info_player_deathmatch"
 "origin" "-80 -1536 120"
-}
-// entity 4
-{
-"classname" "weapon_rocketlauncher"
-"origin" "32 -560 -320"
-}
-// entity 5
-{
-"classname" "item_armorInv"
-"origin" "32 -608 -320"
-}
-// entity 6
-{
-"classname" "item_rockets"
-"origin" "32 -528 -320"
-}
-// entity 7
-{
-"classname" "item_rockets"
-"origin" "-0 -528 -320"
-}
-// entity 8
-{
-"classname" "weapon_nailgun"
-"origin" "-0 -576 96"
-}
-// entity 9
-{
-"classname" "item_spikes"
-"origin" "16 -640 96"
-}
-// entity 10
-{
-"classname" "item_armor1"
-"origin" "-0 -656 96"
-}
-// entity 11
-{
-"classname" "item_armor2"
-"origin" "992 -544 128"
-}
-// entity 12
-{
-"classname" "weapon_grenadelauncher"
-"origin" "1008 -576 128"
-}
-// entity 13
-{
-"classname" "item_rockets"
-"origin" "976 -624 128"
-}
-// entity 14
-{
-"classname" "monster_enforcer"
-"origin" "-80 -80 87"
-}
-// entity 15
-{
-"classname" "monster_enforcer"
-"origin" "96 -16 40"
-}
-// entity 16
-{
-"classname" "monster_enforcer"
-"origin" "304 -16 40"
-}
-// entity 17
-{
-"classname" "monster_dog"
-"origin" "-272 -784 -296"
-}
-// entity 18
-{
-"classname" "monster_dog"
-"origin" "560 -384 -296"
-}
-// entity 19
-{
-"classname" "monster_ogre"
-"origin" "576 -784 -296"
-}
-// entity 20
-{
-"classname" "monster_ogre"
-"origin" "-320 -384 -296"
 }
